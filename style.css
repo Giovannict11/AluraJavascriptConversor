@@ -1,0 +1,43 @@
+body {
+  font-family: 'arial',monospace;
+  min-height: 400px;
+  background-image: url("https://neofeed.com.br/wp-content/uploads/2019/07/dolar-voando.jpg");
+  background-color: #FF00FF;
+  background-size: 100%;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 500px;
+}
+
+.page-title {
+  color: #FF0000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  text-align: center;
+  color: #FF0000;
+  margin-top: 5px;
+}
+input#dolar {
+  width: 300px;
+  height: 20px;
+  color: #0000CD;
+}
+div#real{
+    margin-top: 10px;
+     width: 350px;
+     height: 100px;
+     margin-left: auto;
+     margin-right: auto;
+     color: black;
+     
+     background-color: white;
+     border: 1px solid cyan;
+     border-radius: 12px;
+  }     
